@@ -1,0 +1,19 @@
+# Compiled Java files
+*.class
+
+# Eclipse build output
+bin/
+
+# Other Java build directories
+build/
+out/
+target/
+
+# Other IDE and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
